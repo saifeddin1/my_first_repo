@@ -19,7 +19,7 @@ export class TodoItem extends Component {
     render() {
         const { id, title } = this.props.todo;
         const btnStyle = {
-            background:'#ff0000',
+            background:'#f22200',
             color: '#fff',
             border:'none',
             padding:'5px 9px',

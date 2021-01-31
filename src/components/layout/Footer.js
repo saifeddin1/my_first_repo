@@ -5,7 +5,7 @@ const Footer = () =>{
     return(
         <Fragment>
             <footer style={footerStyle}>
-                <h3>Hello footer</h3>
+                <h3>Copyright 2021 Made with 💟 by saifeddin</h3>
             </footer>
         </Fragment>
     )
