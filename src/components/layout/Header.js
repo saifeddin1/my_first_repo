@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 function Header() {
     return (
         <header style={headerStyle}>
-            <h1>Todo List</h1>
+            <h1>Github Todo List</h1>
             <Link style={{color:'#fff'}}  to="/">Home</Link> | <Link style={{color:'#fff'}}  to="/about">About</Link>
 
         </header>
